@@ -26,36 +26,13 @@ Hello! I am a passionate **AI and Data Science** enthusiast driven by curiosity 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 ---
 
-## 🚀 Featured Projects  
-
-### **1. Data Version Control System**  
-- 📜 **Description**: Built a custom DVC system replicating GitHub functionalities for data tracking.  
-- 🔧 **Tech Stack**: Python, Git, CLI, JSON  
-- 🎯 **Outcome**: Streamlined version control workflows and enhanced data consistency.  
-
-### **2. MLOps & AutoML Prediction Analysis**  
-- 📜 **Description**: Developed an AutoML framework for preprocessing and predictive modeling.  
-- 🔧 **Tech Stack**: PyCaret, H2O.ai, Docker  
-- 🎯 **Outcome**: Increased prediction accuracy by 20% and reduced preprocessing time by 30%.  
-
-### **3. Vehicle Routing Problem Optimization**  
-- 📜 **Description**: Solved VRP using Genetic Algorithm for optimal route planning.  
-- 🔧 **Tech Stack**: Python, DEAP  
-- 🎯 **Outcome**: Reduced operational costs by 30%.  
-
-### **4. Dimensionality Reduction with K-Means and Gaussian Naive Bayes**  
-- 📜 **Description**: Built a classification pipeline with dimensionality reduction techniques.  
-- 🔧 **Tech Stack**: Python, Scikit-learn  
-- 🎯 **Outcome**: Achieved 81% accuracy and reduced inference time by 83.7%.  
-
----
-
 ## 🏆 Certifications  
 
 - **Qlik**: Business Analyst Qualification  
 - **NPTEL**: Python for Data Science, Data Analytics with Python, Big Data Computing  
 
 ---
+[![Leetcode Stats](https://leetcard.jacoblin.cool/aswanth_75?theme=light&font=Tiro%20Kannada&ext=contest)](https://leetcode.com/u/ASWANTH_75/)
 
 ## 📈 My GitHub Stats  
 
