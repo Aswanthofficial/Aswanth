@@ -31,7 +31,7 @@ Hello! I am a passionate **AI and Data Science** enthusiast driven by curiosity 
 ## 🏆 Certifications  
 
 - **Qlik**: Business Analyst Qualification  
-- **NPTEL**: Python for Data Science, Data Analytics with Python, Big Data Computing  
+- **NPTEL**: Python for Data Science | Data Analytics with Python | Big Data Computing  
 
 ---
 [![Leetcode Stats](https://leetcard.jacoblin.cool/aswanth_75?theme=light&font=Tiro%20Kannada&ext=contest)](https://leetcode.com/u/ASWANTH_75/)
