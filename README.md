@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Aswanth! 
+#  Hi, I'm Aswanth! 
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 📍 **Karpagam College of Engineering | Class of 2026**  
