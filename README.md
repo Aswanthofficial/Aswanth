@@ -7,17 +7,6 @@
 
 ---
 
-## ✨ About Me  
-
-Hello! I am a passionate **AI and Data Science** enthusiast driven by curiosity to explore and innovate. My focus lies in:  
-- **🔎 Solving real-world problems** with Machine Learning and Data Science.  
-- **📊 Building scalable systems** for data analytics and MLOps.  
-- **🚀 Optimizing processes** using algorithms and cutting-edge technologies.  
-
-> _“Data is the new oil, and I'm here to refine it!”_  
-
----
-
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png" />  <img height="50" width="50" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />  
