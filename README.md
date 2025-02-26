@@ -1,4 +1,17 @@
-#  Hi, I'm Aswanth! 
+#  Hi, I'm Aswanth! ⭐  
+
+🚀 **Aspiring AI & Data Science Engineer** | 🧠 **Machine Learning Enthusiast** | 🔍 **MLOps & Automation Advocate**  
+
+📍 **B.Tech Artificial Intelligence & Data Science** | Karpagam College of Engineering (Graduating 2026)  
+
+---
+
+## 🚀 About Me  
+
+I'm an AI and Data Science student passionate about solving real-world problems with **Machine Learning, MLOps, and Automation**.  
+I specialize in **data preprocessing, predictive modeling, optimization algorithms, and deploying AI solutions.**  
+
+---
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 📍 **Karpagam College of Engineering | Class of 2026**  
