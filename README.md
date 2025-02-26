@@ -2,8 +2,6 @@
 
 🚀 **Aspiring AI & Data Science Engineer** | 🧠 **Machine Learning Enthusiast** | 🔍 **MLOps & Automation Advocate**  
 
-📍 **B.Tech Artificial Intelligence & Data Science** | Karpagam College of Engineering (Graduating 2026)  
-
 ---
 
 ## 🚀 About Me  
